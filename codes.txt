@@ -1,0 +1,10 @@
+# react with typescript
+npx create-react-app my-app --template typescript
+
+#redux
+npm install @reduxjs/toolkit
+
+npm install redux
+
+npm install react-redux
+npm install --save-dev redux-devtools
